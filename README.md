@@ -24,6 +24,9 @@ $ echo "export PYTHONPATH=/usr/hdp/current/spark2-client/python/lib/py4j-0.10.4-
 $ source ~/.bash_profile
 ```
 
+
+## Starting notebooks
+
 To begin this week's exercises, make a fork of this repository in your own
 namespace on gitlab and then clone the fork in your account on the iccluster:
 
@@ -32,8 +35,6 @@ $ git clone https://git-dslab.epfl.ch/<gitlab-username>/homework3-spark.git
 ```
 
 In the notebooks, you will see **TODO** sections each worth a number of points.
-
-## Starting notebooks
 
 To start this notebook, run
 
