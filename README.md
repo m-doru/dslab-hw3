@@ -12,7 +12,7 @@ forked repo on the due date will graded.
 
 The set up is the same as for week 7. We will be using notebooks on the iccluster.
 
-**if you already did this setup for week 7 you can safely skip!**
+**if you already did this setup for week 7 you can safely skip to the next section!**
 
 The notebooks in this series will most easily be run on the IC Cluster. To set
 up your linux `PATH` and `PYTHONPATH` correctly, log in to your iccluster
