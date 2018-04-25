@@ -34,6 +34,10 @@ namespace on gitlab and then clone the fork in your account on the iccluster:
 $ git clone https://git-dslab.epfl.ch/<gitlab-username>/homework3-spark.git
 ```
 
+Please make a copy of the EMPTY notebook and replace EMPTY with your name. Add 
+this notebook to the repo and commit. This way if we need to push an update to 
+the EMPTY notebook, you won't get merge conflicts.
+
 In the notebooks, you will see **TODO** sections each worth a number of points.
 
 To start this notebook, run
@@ -42,7 +46,8 @@ To start this notebook, run
 $ jupyter notebook --ip 10.90.38.21
 ```
 
-Browse to the clone of the repository and open the notebook.
+Browse to the clone of the repository and open the notebook that you made above
+with your name in the filename. 
 
 If you close your browser window on accident and need to get back to your
 notebook, you can find the currently-running notebook servers with:
