@@ -34,7 +34,8 @@ namespace on gitlab and then clone the fork in your account on the iccluster:
 $ git clone https://git-dslab.epfl.ch/<gitlab-username>/homework3-spark.git
 ```
 
-Please make a copy of the EMPTY notebook and replace EMPTY with your name. Add 
+Please make a copy of the EMPTY `twitter-hashtags.ipynb` notebook and add your name to the filename, 
+for example `twitter-hashtags-calvin.ipynb`. Add 
 this notebook to the repo and commit. This way if we need to push an update to 
 the EMPTY notebook, you won't get merge conflicts.
 
